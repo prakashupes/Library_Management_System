@@ -1,0 +1,20 @@
+.availbook
+            {
+                position: absolute;
+                top: 30%;
+                left:15px;
+                
+            }
+            .td001
+            {
+                font-size: 20px;
+                font-family: Helvetica;
+                color:#419B8F;
+            }
+            .label001
+            {
+                font-family: Georgia;
+                color: 172927;
+                font-size: 25px;
+                
+            }

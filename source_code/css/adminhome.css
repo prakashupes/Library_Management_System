@@ -1,0 +1,95 @@
+html,body
+{
+    height: 100%;
+    height: 100%;
+}
+.center
+{
+   position: relative;
+   background:rgba(227,242,246,0.8);
+   
+   top:50px;
+   width: 80%;
+   height: 100%;
+   left: 20%;
+   padding: 0px;
+   z-index: 20;
+}
+.center #c10001
+{
+    position: absolute;
+    background:#fff;
+    height: 100%;
+    width: 70%;
+    z-index: 50;
+    left:5%;
+    
+    
+}
+.center #c10001 .c1000011
+{
+    background: rgba(246,255,254,0.7);
+    border-bottom: 1px solid #D4F3F7;
+}
+.center #c10001 .c1000012
+{
+    position: absolute;
+    width: 100%;
+    background:#fff;
+    border-bottom: 1px solid #D4F3F7;
+    font-family: Georgia;
+    font-size: 18px;
+    color: #195058;
+    height: 40px;
+}
+
+
+//Common styles for all pages
+ #h0001
+            {
+                position: absolute;
+                color: #fff;
+                font-family: Helvetica;
+                font-size: 30px;
+                top:5px;
+                left:25px;
+            }
+            #h0002
+            {
+                position: absolute;
+                top:10px;
+                
+                
+            }
+            #h0003
+            {
+                position: absolute;
+                top:5px;
+                color: #fff;
+                font-family: Helvetica;
+                font-size: 15px;
+                text-decoration: none;
+               
+            }
+            #c0002
+            {
+                font-size: 170%;
+                font-family: Helvetica;
+                color:#3F4B4B;
+                position: absolute;
+                top:11px;
+                left: 60px;
+                
+            }
+            #c0003
+            {
+                
+                top:20%;
+                width: 100%
+            }
+            #c0004
+            {
+              
+                top:27%px;
+                width: 100%
+            }
